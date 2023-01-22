@@ -62,7 +62,7 @@ class TestSelectAllBearsNamesAndAgesThatAreAliveAndOrderYoungestToOldest:
             ("Tabitha",),
             ("Wendy",),
             ("Rowdy",),
-            ("Melissa",),
+            ("Melissa",)
         ])
 
 class TestSelectOldestBearAndReturnNameAndAge:
